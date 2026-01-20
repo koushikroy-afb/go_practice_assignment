@@ -2,8 +2,8 @@ package main
 
 import "fmt"
 func main(){
-	var num1,num2 float64
-	var operator string
+	 var num1,num2 int
+var	 operator string
 	fmt.Println("Enter Number 1:")
 	fmt.Scanln(&num1)
 	fmt.Println("Enter Number 2:")
